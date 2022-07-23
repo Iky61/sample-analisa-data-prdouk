@@ -1,0 +1,120 @@
+Invoice ID,Tanggal,Customer type,Gender,Product line,Quantity,Total
+651-88-7328,1/1/2019 13:55,Normal,Female,Fashion accessories,9,621.243
+765-26-6951,1/1/2019 10:39,Normal,Male,Sports and travel,6,457.443
+182-52-7000,1/1/2019 20:26,Member,Female,Sports and travel,4,113.568
+530-90-9855,1/1/2019 14:47,Member,Male,Home and lifestyle,8,399.756
+416-17-9926,1/1/2019 14:42,Member,Female,Electronic accessories,10,779.31
+665-32-9167,1/10/2019 17:15,Member,Female,Health and beauty,2,76.146
+873-51-0671,1/10/2019 16:42,Member,Female,Sports and travel,7,161.553
+744-02-5987,1/10/2019 14:16,Member,Male,Home and lifestyle,6,493.794
+130-67-4723,1/11/2019 13:57,Member,Male,Food and beverages,6,305.55
+406-46-7107,1/11/2019 11:52,Normal,Female,Home and lifestyle,6,608.076
+732-67-5346,1/11/2019 19:07,Normal,Male,Food and beverages,5,72.3975
+478-06-7835,1/11/2019 11:20,Normal,Male,Fashion accessories,1,94.1745
+540-11-4336,1/11/2019 16:49,Normal,Male,Food and beverages,9,235.683
+289-15-7034,1/11/2019 10:37,Member,Male,Sports and travel,4,345.786
+704-48-3927,1/12/2019 14:50,Member,Male,Electronic accessories,10,931.035
+381-20-0914,1/12/2019 15:48,Member,Female,Fashion accessories,9,189.0945
+647-50-1224,1/12/2019 16:23,Normal,Female,Fashion accessories,10,308.91
+397-25-8725,1/13/2019 17:54,Member,Female,Health and beauty,9,374.409
+459-50-7686,1/13/2019 19:14,Normal,Female,Electronic accessories,6,147.798
+195-06-0432,1/13/2019 12:55,Member,Male,Home and lifestyle,3,255.1815
+460-93-5834,1/13/2019 10:03,Normal,Male,Sports and travel,7,335.013
+588-47-8641,1/14/2019 19:30,Member,Male,Fashion accessories,10,588.42
+667-23-5919,1/14/2019 12:52,Member,Female,Fashion accessories,5,507.675
+138-17-5109,1/15/2019 15:42,Member,Female,Home and lifestyle,9,843.0345
+886-54-6089,1/15/2019 17:24,Normal,Female,Home and lifestyle,6,72.009
+589-02-8023,1/15/2019 10:54,Member,Male,Food and beverages,2,175.917
+301-11-9629,1/15/2019 10:43,Normal,Female,Sports and travel,7,140.385
+272-65-1806,1/15/2019 17:17,Normal,Female,Electronic accessories,9,575.316
+648-83-1321,1/16/2019 17:59,Member,Male,Home and lifestyle,10,667.38
+618-34-8551,1/16/2019 18:41,Normal,Female,Sports and travel,2,195.678
+497-37-6538,1/17/2019 15:15,Normal,Male,Sports and travel,7,432.9885
+445-30-9252,1/17/2019 17:59,Normal,Male,Sports and travel,3,80.955
+698-98-5964,1/17/2019 13:01,Normal,Female,Food and beverages,10,852.705
+746-54-5508,1/17/2019 12:48,Normal,Male,Home and lifestyle,6,135.576
+700-81-1757,1/18/2019 20:59,Normal,Female,Electronic accessories,5,138.1275
+166-19-2553,1/18/2019 17:26,Member,Male,Sports and travel,6,561.078
+562-12-5430,1/18/2019 10:11,Member,Female,Fashion accessories,3,277.6725
+706-36-6154,1/18/2019 18:43,Member,Male,Home and lifestyle,9,182.952
+645-44-1170,1/19/2019 20:07,Member,Male,Home and lifestyle,9,548.7615
+149-61-1929,1/19/2019 14:08,Normal,Male,Sports and travel,10,673.995
+809-69-9497,1/19/2019 19:30,Normal,Female,Home and lifestyle,10,479.64
+125-45-2293,1/19/2019 13:11,Normal,Female,Fashion accessories,6,624.33
+482-17-1179,1/19/2019 12:47,Member,Male,Electronic accessories,3,37.611
+882-40-4577,1/19/2019 15:28,Member,Male,Sports and travel,4,282.492
+796-32-9050,1/19/2019 16:31,Normal,Male,Food and beverages,6,323.064
+832-51-6761,1/19/2019 20:29,Normal,Male,Food and beverages,8,284.592
+712-39-0363,1/2/2019 15:24,Member,Male,Food and beverages,6,262.458
+504-35-8843,1/2/2019 16:57,Normal,Male,Sports and travel,1,44.5935
+410-67-1709,1/20/2019 17:48,Member,Female,Fashion accessories,8,536.592
+787-87-2010,1/20/2019 15:48,Member,Male,Health and beauty,4,233.1
+645-78-8093,1/20/2019 18:09,Normal,Female,Sports and travel,2,195.594
+817-48-8732,1/20/2019 15:55,Member,Female,Home and lifestyle,10,759.675
+239-10-7476,1/21/2019 16:37,Normal,Female,Home and lifestyle,6,491.085
+462-67-9126,1/21/2019 17:44,Normal,Male,Home and lifestyle,6,461.286
+329-62-1586,1/21/2019 18:00,Normal,Male,Food and beverages,3,172.2105
+269-10-8440,1/21/2019 18:01,Member,Male,Health and beauty,7,390.7995
+316-68-6352,1/21/2019 10:00,Member,Female,Food and beverages,2,76.356
+287-21-9091,1/22/2019 10:55,Normal,Male,Home and lifestyle,9,705.6315
+460-35-4390,1/22/2019 11:00,Normal,Male,Home and lifestyle,3,96.642
+318-12-0304,1/23/2019 12:20,Normal,Male,Fashion accessories,1,32.1405
+213-32-1216,1/23/2019 10:28,Normal,Female,Electronic accessories,6,416.178
+160-22-2687,1/23/2019 14:21,Member,Female,Health and beauty,5,503.7375
+809-46-1866,1/23/2019 17:44,Normal,Male,Health and beauty,4,244.23
+828-46-6863,1/23/2019 11:22,Member,Male,Food and beverages,6,620.739
+604-70-6476,1/23/2019 14:04,Member,Male,Fashion accessories,5,94.185
+316-66-3011,1/23/2019 12:35,Member,Female,Food and beverages,9,450.1035
+237-44-6163,1/24/2019 17:43,Normal,Male,Electronic accessories,8,88.704
+778-34-2523,1/24/2019 10:57,Member,Female,Electronic accessories,8,408.408
+726-27-2396,1/24/2019 20:36,Normal,Female,Health and beauty,5,406.875
+435-13-4908,1/24/2019 18:04,Member,Male,Fashion accessories,8,728.112
+232-11-3025,1/24/2019 10:04,Normal,Male,Sports and travel,10,827.085
+888-02-0338,1/25/2019 20:24,Normal,Male,Electronic accessories,9,247.8735
+843-73-4724,1/25/2019 11:05,Normal,Male,Fashion accessories,1,77.805
+307-83-9164,1/25/2019 15:54,Member,Male,Home and lifestyle,4,252.042
+340-21-9136,1/25/2019 11:40,Member,Female,Sports and travel,4,168.21
+856-66-2701,1/25/2019 14:19,Member,Male,Home and lifestyle,3,167.895
+834-61-8124,1/26/2019 18:22,Normal,Male,Electronic accessories,7,379.9215
+308-39-1707,1/26/2019 18:19,Normal,Female,Fashion accessories,1,12.6945
+896-34-0956,1/26/2019 12:43,Normal,Male,Fashion accessories,1,22.386
+633-91-1052,1/27/2019 15:51,Normal,Female,Home and lifestyle,2,25.263
+123-19-1176,1/27/2019 20:33,Member,Male,Health and beauty,8,489.048
+870-54-3162,1/27/2019 13:26,Normal,Female,Sports and travel,5,169.3125
+534-01-4457,1/27/2019 14:36,Normal,Male,Food and beverages,6,514.773
+585-90-0249,1/27/2019 18:08,Member,Male,Electronic accessories,1,76.923
+595-27-4851,1/27/2019 18:05,Normal,Female,Fashion accessories,7,398.958
+726-29-6793,1/28/2019 20:54,Member,Male,Electronic accessories,8,203.112
+865-41-9075,1/28/2019 17:35,Normal,Male,Food and beverages,7,84.7455
+569-76-2760,1/29/2019 18:15,Member,Female,Sports and travel,4,92.442
+816-72-8853,1/29/2019 15:48,Member,Female,Sports and travel,5,146.6325
+575-67-1508,1/29/2019 11:26,Normal,Male,Electronic accessories,1,40.53
+746-94-0204,1/29/2019 11:56,Normal,Male,Fashion accessories,9,786.618
+800-09-8606,1/29/2019 19:45,Member,Female,Home and lifestyle,5,458.6925
+422-29-8786,1/3/2019 16:47,Normal,Female,Home and lifestyle,5,352.2225
+749-24-1565,1/3/2019 12:02,Normal,Female,Health and beauty,9,217.6335
+249-42-3782,1/3/2019 11:36,Normal,Male,Health and beauty,5,367.5525
+804-38-3935,1/30/2019 11:32,Member,Male,Electronic accessories,3,295.407
+187-83-5490,1/31/2019 13:47,Member,Male,Electronic accessories,4,87.234
+366-93-0948,1/31/2019 10:46,Member,Male,Electronic accessories,1,69.6675
+522-57-8364,1/31/2019 10:00,Member,Male,Fashion accessories,8,431.256
+731-14-2199,1/4/2019 13:34,Member,Female,Home and lifestyle,10,373.17
+132-23-6451,1/4/2019 13:21,Member,Male,Health and beauty,5,110.0925
+217-58-1179,1/5/2019 11:25,Member,Male,Home and lifestyle,4,263.13
+750-67-8428,1/5/2019 13:08,Member,Female,Health and beauty,7,548.9715
+209-61-0206,1/5/2019 17:29,Normal,Female,Home and lifestyle,5,225.2775
+144-51-6085,1/5/2019 16:05,Member,Male,Home and lifestyle,4,297.108
+489-82-1237,1/5/2019 11:51,Normal,Female,Electronic accessories,7,690.018
+852-82-2749,1/6/2019 13:35,Normal,Male,Sports and travel,4,271.278
+846-10-0341,1/6/2019 11:51,Normal,Female,Fashion accessories,7,312.8895
+662-72-2873,1/6/2019 13:58,Normal,Female,Food and beverages,5,214.935
+490-29-1201,1/6/2019 11:09,Normal,Female,Sports and travel,1,16.107
+704-11-6354,1/6/2019 11:23,Member,Male,Home and lifestyle,8,494.76
+126-54-1082,1/7/2019 11:44,Member,Female,Home and lifestyle,9,203.553
+541-48-8554,1/7/2019 12:08,Normal,Male,Sports and travel,9,575.9775
+799-71-1548,1/7/2019 16:11,Member,Male,Electronic accessories,4,326.424
+840-76-5966,1/8/2019 18:06,Member,Male,Sports and travel,2,26.796
+124-31-1458,1/8/2019 14:30,Member,Female,Electronic accessories,3,250.7085
+674-15-9296,1/8/2019 13:05,Normal,Male,Sports and travel,5,194.985
+257-60-7754,1/8/2019 17:12,Normal,Female,Electronic accessories,4,210.966
+288-62-1085,1/9/2019 13:34,Member,Male,Fashion accessories,5,202.335
